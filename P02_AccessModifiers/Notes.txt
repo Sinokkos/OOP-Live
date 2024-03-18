@@ -1,0 +1,11 @@
+﻿Access Modifiers - Erişim Belirleyiciler
+
+* public : Her projeden çağrılark kullanılabilecek olan değişkenler, özellikler, metotlar için kullanılır
+
+* private : Aynı class içerisinden erişilebilen değişkenler, özellikler, metotlar için kullanılır
+
+*internal : Aynı proje içerisinden erişilebilen değişkenler, özellikler, metotlar için kullanılır
+
+*protected : Inherit (Kalıtım/Miras alma) yapılaraktüretilen sınıflarda kullanmak istediğimiz değişkenler, özellikler, metotlar için kullanılır
+
+* internal protected : Aynı projede türetilerek (Kalıtım alınarak) oluşturulan sınıflar içerisinde kullanmak istediğimiz değişkenler, özellikler, metotlar için kullanılır
