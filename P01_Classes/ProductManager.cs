@@ -6,17 +6,16 @@ using System.Threading.Tasks;
 
 namespace P01_Classes
 {
-    internal class CustomerManager
+    internal class ProductManager
     {
         public void Add()
         {
-            //...
-            Console.WriteLine("Müşteri eklendi");
+            Console.WriteLine("Ürün eklendi");
         }
 
         public void Update()
         {
-            Console.WriteLine("Müşteri güncellendi..."  );
+            Console.WriteLine("Ürün güncellendi");
         }
     }
 }
