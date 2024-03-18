@@ -1,0 +1,9 @@
+﻿Sınıflar (classlar) nerede oluşturulabilir.
+
+- namespace içinde yaratılabilir
+- bulunduğumuz namespace dışında yaratılabilir.
+- ayrı bir .cs dosyası içinde.
+
+* Örneğimiz bir personel bilgileri ile ilgili olsun
+
+O yüzden Personel Bilgilerini tutacağım  ayrı bir class tanımlayacağım
